@@ -1,0 +1,6 @@
+{
+  "name": "Шкільний Щоденник",
+  "description": "Шкільний Щоденник та Помічник — освітня платформа для учнів, батьків, вчителів та репетиторів з розкладом, Zoom/Meet, AI-перевіркою ДЗ, тренажером НМТ та нагородами",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
